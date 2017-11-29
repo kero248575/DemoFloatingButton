@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DemoFloatingButton</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="item">
+        <item>關於</item>
+        <item>結束</item>
+        <item>項目3</item>
+        <item>項目4</item>
+        <item>項目5</item>
+
+
+    </string-array>
+</resources>
